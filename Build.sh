@@ -1,2 +1,2 @@
 #!/bin/bash
-yum install talk
+yum install -y talk
