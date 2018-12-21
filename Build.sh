@@ -1,2 +1,2 @@
 #!/bin/bash
-yum install -y talk
+yum install -y samba
